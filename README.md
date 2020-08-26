@@ -1,2 +1,2 @@
 # iforgot
-This contain a password manager that will help you to find/manage your password 
+This contain a java based password manager that will help you to find/manage your password 
